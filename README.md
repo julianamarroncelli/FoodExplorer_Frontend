@@ -1,4 +1,5 @@
 Sobre o Projeto 🍽️
+
 O Food Explorer é uma aplicação completa desenvolvida como parte de um desafio, com o objetivo de criar um menu interativo para um restaurante fictício.
 Ele possui dois perfis: o administrador, responsável pelo restaurante, e o usuário, que explora e seleciona os pratos. 
 O projeto foi desenvolvido como um projeto de conclusão de curso, realizado pela plataforma de cursos RocketSeat e engloba tanto o frontend quanto o backend, com base no layout fornecido no Figma.
@@ -6,6 +7,7 @@ O projeto foi desenvolvido como um projeto de conclusão de curso, realizado pel
 
 
 🧭 Testando o projeto:
+
 Antes de começar, clone o repsitório do frontend e do backend. O backend deve estar sendo rodando antes de executar o frontend.
 Com o backend ativo, abra o terminal do frontend e execute os comandos abaixo na seguinte ordem:
 1- npm install vite
