@@ -4,7 +4,7 @@ import { Container } from "./style";
 export function Banner (){
   return(
     <Container>
-      <img src="../src/image/bannerImage.png"/>
+      <img src="/src/image/bannerImage.png"/>
       
       <div className="title">
         <h1> Sabores inigualáveis </h1>
