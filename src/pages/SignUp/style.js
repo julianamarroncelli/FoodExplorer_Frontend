@@ -24,7 +24,7 @@ export const Content = styled.div`
   h1 {
     font-size: 4.2rem;
     font-weight: 700;
-    color: ${({ theme }) => theme.COLORS.COLOR_TEXT_WHITE};
+    color: ${({ theme }) => theme.COLORS.FC_LIGHT100;
   }
 
   @media (max-width: 400px) {
