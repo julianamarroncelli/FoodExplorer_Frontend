@@ -32,6 +32,7 @@ export const Container = styled.div`
     display:flex;
     align-items: center;
     margin: 0 auto;
+    width: auto;
   }
 
   p {
