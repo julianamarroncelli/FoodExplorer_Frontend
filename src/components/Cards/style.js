@@ -29,6 +29,8 @@ export const Container = styled.div`
     font-weight: 500;
     font-size: 2.0rem;
     line-height: 20px;
+    display:flex;
+    align-items: center;
   }
 
   p {
