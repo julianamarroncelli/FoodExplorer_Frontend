@@ -42,6 +42,7 @@ Antes de começar, clone o repositório do frontend e do backend. O backend deve
 ## 🌍 FoodExplorer Online 
 
 **Observação:** Às vezes o deploy demora um pouquinho pra carregar, viu? Tenha um tiquinho de paciência 🙈.
+[FoodExplorer Online](https://foodexplorer-jmarroncelli.netlify.app/)
 
 ---
 
